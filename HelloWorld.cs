@@ -2,7 +2,7 @@ using System;
 
 class HelloWorld
 {
-    static void Main(string[] args)
+   public static void PrintHelloWorld()
     {
         Console.WriteLine("Hello, World!");
     }
