@@ -1,9 +1,7 @@
-Asmaa
-<<<<<<< HEAD
-<<<<<<< HEAD
-Tasneem
-=======
+data 1
+data 2
 esraa
+<<<<<<< HEAD
 =======
 esraa
 =======
@@ -16,4 +14,7 @@ tasneem
 login esraa
 =======
 login esraaa
+>>>>>>> esraa
+=======
+asmaa
 >>>>>>> esraa
