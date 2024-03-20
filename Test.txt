@@ -1,18 +1,2 @@
-Asmaa
-<<<<<<< HEAD
-<<<<<<< HEAD
-Tasneem
-=======
-esraa
-=======
-esraa
-=======
-esraa
->>>>>>> 87994a1c1a5f7b0546cfaadd87a5477fefef8471
-tasneem
->>>>>>> 7dffdd5a6ec2a97050a3c300ba27af814c5eab03
-
-login esraaa
-
-add data
-login 2
+data 1
+data 2
