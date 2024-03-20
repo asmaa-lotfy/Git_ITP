@@ -2,8 +2,8 @@ using System;
 
 class HelloITI
 {
-    public static void PrintHelloITI()
+    public static void PrintHelloGit()
     {
-        Console.WriteLine("Hello ITI !");
+        Console.WriteLine("Hello Git");
     }
 }
